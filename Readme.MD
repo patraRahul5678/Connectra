@@ -1,5 +1,7 @@
 <h1 align="center">✨ Connectra ✨</h1>
 
+Connectra is a scalable real-time communication and language exchange platform featuring secure JWT authentication, live messaging with typing indicators and reactions, and 1-on-1 & group video calls with screen sharing and recording. Built using React, Express, MongoDB, TailwindCSS, TanStack Query, Zustand, and Stream, it offers 32 unique UI themes, robust error handling, and free cloud deployment for a seamless user experience.
+
 **Live Demo:** [View Here](https://connectra-vljd.onrender.com/)
 
 
